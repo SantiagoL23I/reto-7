@@ -25,6 +25,7 @@ while (x<=999): #mientras la variable sea menor o igual que 999 se mantendra el 
         print ("Los numero impares son: " +str(x)) #imprimir la variable x
     x+=1 #actualizar al suguiente entero
 ```
+[![](https://mermaid.ink/img/pako:eNpVUstOwzAQ_BVjqVIRdWWnTVOHlgMUWs5wIuHgJk4bqbGrPERC1B_jyo-x1HEJuWRndnZWO0mLIx1L7OPkoD-ivchL9Lq6DRWCRwyfVRql-hoRcoe2Qb0EkSjfu_Z90PwnoqBGMjum8lMgqRCz_EPQ9HnH8nHbLJaMUnrqiFXbDJzl8oJlcNAFUlUmc3gfRS4LVGjlW4NdUN9ctjy29YJzbmfXbT1wrv68Nsbr-8uYpVnPzij2wyRV1508CZo_66dzJ1QGbSGNyJ5MyNkJqEd7FSFFCtimKKFObGRQP9hjO53sY6R0T55AHduPAfW9DZQQszPu7zSzTzaOzn7dx0aytxF1ko2NCOpdv2fkuy7s3xtDhUcYEsxEGsNP0_62QlzuZSZD7EMZy0RUhzLEoTqBVFSlfmlUhP1EHAo5wtUxFqVcpWKXi-zCHoV60xpwmVcGYr_FNfYZH7MZn1HKKeOuwzxnhBvsE07Hc5d6M2_ieBPqcec0wp9nBzam7nQ2ZzA2Z-5kOuenHx5x0QY?type=png)](https://mermaid.live/edit#pako:eNpVUstOwzAQ_BVjqVIRdWWnTVOHlgMUWs5wIuHgJk4bqbGrPERC1B_jyo-x1HEJuWRndnZWO0mLIx1L7OPkoD-ivchL9Lq6DRWCRwyfVRql-hoRcoe2Qb0EkSjfu_Z90PwnoqBGMjum8lMgqRCz_EPQ9HnH8nHbLJaMUnrqiFXbDJzl8oJlcNAFUlUmc3gfRS4LVGjlW4NdUN9ctjy29YJzbmfXbT1wrv68Nsbr-8uYpVnPzij2wyRV1508CZo_66dzJ1QGbSGNyJ5MyNkJqEd7FSFFCtimKKFObGRQP9hjO53sY6R0T55AHduPAfW9DZQQszPu7zSzTzaOzn7dx0aytxF1ko2NCOpdv2fkuy7s3xtDhUcYEsxEGsNP0_62QlzuZSZD7EMZy0RUhzLEoTqBVFSlfmlUhP1EHAo5wtUxFqVcpWKXi-zCHoV60xpwmVcGYr_FNfYZH7MZn1HKKeOuwzxnhBvsE07Hc5d6M2_ieBPqcec0wp9nBzam7nQ2ZzA2Z-5kOuenHx5x0QY)
 #### 3. Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
 
 ```psudocode
@@ -35,6 +36,7 @@ while (x>=2): #mientras la variable sea mayor o igual que 2 se mantendra el cicl
     print(x) #imprimir la variable
     x-=2   #actualizamos a los dos anteriores números para que siga en par y sea descendente      
 ```
+[![](https://mermaid.ink/img/pako:eNpNUEFugzAQ_Iq7UqVEAhQcMIEqOeXSc3tqyMHBBiwFOyJGJUV8rNd-rEuJq3gvM7Oj3VkPUBghIYPybD6LmreWvO9fck3w8cWrVoUyS-L7O3I6KF218spb0mmif74b2Zrj3SqGfrel450VQ_9Mn7Yrx-Wh90NnrQ44pDtbLgwRkvROL9FEjzOuF6XSS2xMNQknTCDcLt-_KuTFIyfaoFS7AHeLdAEQV4-92e6kCnHpYkybZgge4I0NVwL_Z5i0HGwtG5lDhlDIkuMdOeR6RCvvrHm76QKykp-v0oPuIriVe8Wrljf_6oXrD2OQ27abKWQD9JDRmAbhikZRkjK2SRPqwQ0yPwzXAaMsRI1FLI3T9ejB19-EMFhRtqFJFEcxw1bMxl9gS4Vh?type=png)](https://mermaid.live/edit#pako:eNpNUEFugzAQ_Iq7UqVEAhQcMIEqOeXSc3tqyMHBBiwFOyJGJUV8rNd-rEuJq3gvM7Oj3VkPUBghIYPybD6LmreWvO9fck3w8cWrVoUyS-L7O3I6KF218spb0mmif74b2Zrj3SqGfrel450VQ_9Mn7Yrx-Wh90NnrQ44pDtbLgwRkvROL9FEjzOuF6XSS2xMNQknTCDcLt-_KuTFIyfaoFS7AHeLdAEQV4-92e6kCnHpYkybZgge4I0NVwL_Z5i0HGwtG5lDhlDIkuMdOeR6RCvvrHm76QKykp-v0oPuIriVe8Wrljf_6oXrD2OQ27abKWQD9JDRmAbhikZRkjK2SRPqwQ0yPwzXAaMsRI1FLI3T9ejB19-EMFhRtqFJFEcxw1bMxl9gS4Vh)
 #### 4. En 2022 el país A tendrá una población de 25 millones de habitantes y el país B de 18:9 millones. Las tasas de crecimiento anual de la población serán de 2% y 3% respectivamente. Desarrollar un algoritmo para informar en que año la población del país B superará a la de A.
 
 ```psudocode
