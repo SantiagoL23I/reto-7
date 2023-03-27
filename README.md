@@ -9,6 +9,7 @@ while (x <=100): #mientras la variable sea menor o igual que 100 se mantendra el
     print("el cuadrado de:" +str(x)+ " es " +str(x**2)) #imprimir el número y su cuadrado
     x+=1 #actulizar al siguiente entero
 ```
+[![](https://mermaid.ink/img/pako:eNo9j0FzgjAQhf9KZk9qwSFGIKS1Jy89t6dCDzEJkBlIHAxTlOG_N1owp_e9vN03O4KwUgGDsrG_ouadQ1_H18Ig__jqw2ih7RqF4Ts65cPBh7j7mb9FPiDVnrW6caQMwosvx-HtgKNomlnlqkGi57Lj0iJ1YUuwys1ms1uoXpXarGco8-HlufDk68VS6rVcisLwoj2rpcjrclngdTXX3Ece8jGAjPVG7XMQQKu6lmvp7x_viQJcrVpVAPNSqpL3jSugMJOP8t7Zz6sRwEreXFQA_Vlyp46aVx1vn-6Zm29rPbuu_0dgIwzAMI23hFCME0KSaIczEsAVWJhuM5JSEmeY7kmU0ngK4PbYEG29Q7OYkhQnyX6_I9MfJQJ7Og?type=png)](https://mermaid.live/edit#pako:eNo9j0FzgjAQhf9KZk9qwSFGIKS1Jy89t6dCDzEJkBlIHAxTlOG_N1owp_e9vN03O4KwUgGDsrG_ouadQ1_H18Ig__jqw2ih7RqF4Ts65cPBh7j7mb9FPiDVnrW6caQMwosvx-HtgKNomlnlqkGi57Lj0iJ1YUuwys1ms1uoXpXarGco8-HlufDk68VS6rVcisLwoj2rpcjrclngdTXX3Ece8jGAjPVG7XMQQKu6lmvp7x_viQJcrVpVAPNSqpL3jSugMJOP8t7Zz6sRwEreXFQA_Vlyp46aVx1vn-6Zm29rPbuu_0dgIwzAMI23hFCME0KSaIczEsAVWJhuM5JSEmeY7kmU0ngK4PbYEG29Q7OYkhQnyX6_I9MfJQJ7Og)
 #### 2. Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
 ```psudocode
 x:float #primera variable como flotante
